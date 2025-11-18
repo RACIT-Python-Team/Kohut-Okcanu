@@ -1,0 +1,11 @@
+txt=str(input("Введіть текст:"))
+a=int(input("Введіть ціле число: "))
+
+
+
+print("|"+(a*txt)+"|")
+
+print(a*'!'+txt+(a-1)*'1')
+
+x=int(a*2/3+4-5)
+print(x*txt)

@@ -1,0 +1,41 @@
+{
+	"folders": [
+		{
+			"name": "pyton",
+			"path": "../../../pyton"
+		},
+		{
+			"name": "2_block_input_output",
+			"path": "."
+		},
+		{
+			"name": "3_block_importing_modules",
+			"path": "../3_block_importing_modules"
+		},
+		{
+			"name": "4_block_loops",
+			"path": "../4_block_loops"
+		},
+		{
+			"name": "5_block_raphical User Interface",
+			"path": "../5_block_raphical User Interface"
+		},
+		{
+			"name": "6_block_event_handlers",
+			"path": "../6_block_event_handlers"
+		},
+		{
+			"name": "7_block_text_fields_and_radio_buttons",
+			"path": "../7_block_text_fields_and_radio_buttons"
+		},
+		{
+			"name": "8_block_basic_graphics_objects",
+			"path": "../8_block_basic_graphics_objects"
+		},
+		{
+			"name": "пайтон",
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}
