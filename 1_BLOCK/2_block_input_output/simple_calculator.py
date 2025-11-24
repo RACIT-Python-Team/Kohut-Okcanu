@@ -1,7 +1,0 @@
-a=float(input())
-d=float(input())
-print(a, "+", d, "=", a+d)
-print(a, "-",d,"=", a-d)
-print(a, "*",d,"",a*d)
-print(a, "/", d, "=",a/d)
-print(d, "/",a,"=", d/a)
