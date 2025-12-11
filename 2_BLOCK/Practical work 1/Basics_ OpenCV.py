@@ -1,6 +1,5 @@
 import cv2
 
-
 img = cv2.imread("room.jpg")
 
 if img is None:
@@ -32,3 +31,4 @@ while True:
 
 cap.release()
 cv2.destroyAllWindows()
+
