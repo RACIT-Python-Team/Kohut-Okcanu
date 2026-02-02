@@ -1,5 +1,6 @@
 import cv2
 
+
 img = cv2.imread("aaaaa.jpg")
 
 if img is None:
@@ -17,4 +18,3 @@ cv2.destroyAllWindows()
 
 cv2.imwrite("sss.jpg", blur)
 print("Оброблене зображення збережено у 'sss.jpg'")
-

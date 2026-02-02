@@ -39,5 +39,3 @@ cv2.destroyAllWindows()
 
 
 
-
-
